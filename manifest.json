@@ -1,0 +1,11 @@
+{
+    "Name": "DrenaeMod",
+    "Author": "Drenae",
+    "Version": "0.1.0",
+    "Description": "Complete visual overhaul for Stardew Valley.",
+    "UniqueID": "Drenae.DrenaeMod",
+    "MinimumApiVersion": "4.5.0",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
