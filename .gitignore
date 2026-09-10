@@ -1,0 +1,13 @@
+# Stardew Valley original/extracted assets
+Reference/
+Content/
+Content (unpacked)/
+
+# Local/dev files
+.vscode/
+.idea/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
